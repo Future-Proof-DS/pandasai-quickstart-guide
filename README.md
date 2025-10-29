@@ -73,20 +73,13 @@ Poetry will create a virtual environment with your chosen Python version.
 
 ## Usage
 
-### Jupyter Notebook
+### Running the Notebook
 
-Open and run the interactive tutorial:
+1. Open `pandasai_quickstart_guide.ipynb` in Cursor
+2. Select the Poetry kernel when prompted (look for `pandasai-introduction-xxxxx-py3.xx`)
+3. Run cells sequentially using Shift+Enter
 
-```bash
-poetry run jupyter notebook quickstart.ipynb
-```
-
-The notebook covers:
-- Loading data from CSV files
-- Connecting to PostgreSQL databases
-- Chatting with your data using natural language
-- Creating visualizations
-- Building a semantic layer for improved accuracy
+If necessary install the Jupyter extension for Cursor: https://cursor.dev/docs/extension/jupyter
 
 ## Project Structure
 
