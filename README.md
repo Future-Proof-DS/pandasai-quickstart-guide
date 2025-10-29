@@ -6,7 +6,7 @@ An interactive guide for using PandasAI with SQL databases and the Semantic Laye
 
 ### Prerequisites
 
-- **Python 3.10 or higher** (3.10, 3.11, or 3.12)
+- **Python 3.10 or 3.11** (required - Python 3.12 not yet supported by pandasai-sql)
 - **Poetry**
 - **OpenAI API Key**
 
