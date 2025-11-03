@@ -52,7 +52,7 @@ An interactive guide for using PandasAI with SQL databases and the Semantic Laye
    OPENAI_API_KEY=sk-your-key-here
    DB_HOST=your-database-host
    DB_USER=your-username
-   DB_PASSWORD=your-password
+   DB_PASS=your-password
    DB_NAME=your-database-name
    DB_PORT=5432
    ```
